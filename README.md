@@ -1,9 +1,9 @@
+
 # Ramiro Landajo - Software Developer 👨‍💻
 
 Hi there! 👋 I'm Ramiro Landajo, a passionate 20-year-old student from Argentina, currently pursuing my second year of studies in software development 🤓. I hold a C2 level certification (Cambridge Proficiency Exam) in English, so language barriers are not an issue for me! 😊
 
 ## Skills and Expertise 🚀
-
 - **Python 🐍**: I possess advanced knowledge of Python, including general programming logic and data manipulation.
 
 - **Web Development 💻**: I have a good understanding of HTML, CSS, and JavaScript, allowing me to create dynamic and interactive web applications.
