@@ -18,7 +18,7 @@ Throughout my academic journey and personal projects, I've honed my skills and g
 
 ## Get in Touch 📬
 
-Feel free to reach out to me via email at ramialandajo@email.com or connect with me on [LinkedIn](www.linkedin.com/in/ramirolandajo).
+Feel free to reach out to me via email at ramalandajo@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/ramirolandajo).
 
 Let's build something amazing together! 😃✨
 
